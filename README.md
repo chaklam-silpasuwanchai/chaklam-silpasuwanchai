@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaklam-silpasuwanchai
-- 👀 Deep learning, NLP, Brain stuffs, and coding.
+- 👀 Deep learning, NLP, brain stuffs, and coding.
 - 🌱 Assistant Professor @ Asian Institute of Technology
 - 📫 chaklam@ait.asia
 
